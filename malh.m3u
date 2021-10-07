@@ -133,3 +133,7 @@ http://185.105.4.245:1935/livesp/uthradam/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zkeralamhd/index.m3u8
 #EXTINF:-1 tvg-id="EssentialDeveloper.in" tvg-country="IN" tvg-language="Malayalam" tvg-logo="https://i.imgur.com/qayOJd2.png" group-title="",EssentialDeveloper
 http://free.fullspeed.tv/query?url=https://www.youtube.com/channel/UCjFr010oOpmlzZNw79f-1fA/live
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/EcEMX-63PKY/maxresdefault.jpg",Beats to sleep/chill to
+plugin://plugin.video.youtube/play/?video_id=EcEMX-63PKY
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",Relaxing Sleep Music
+plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
